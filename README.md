@@ -1,6 +1,6 @@
 # geo_locator
 
-A new Flutter project.
+Understanding map using flutter_map in Flutter
 
 ## Getting Started
 
